@@ -20,7 +20,7 @@ problems
 
 https://github.com/Keshu321/AI_week_9/blob/main/74874_9.1_Untitled5.ipynb
 
-
+https://github.com/Keshu321/AI_week_9/blob/main/94874_week_9.2_Untitled6.ipynb
 
 ## week 10 content 
 
