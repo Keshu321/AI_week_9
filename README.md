@@ -18,6 +18,9 @@ price prediction
 • Concluding remarks on output units and regression
 problems
 
+https://github.com/Keshu321/AI_week_9/blob/main/74874_9.1_Untitled5.ipynb
+
+
 
 ## week 10 content 
 
