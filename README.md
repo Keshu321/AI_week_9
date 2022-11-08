@@ -37,3 +37,6 @@ https://github.com/Keshu321/AI_week_9/blob/main/94874_week_9.2_Untitled6.ipynb
 • Reducing parameters with Depthwise Separable Convolution
 
 • Striking the right network design balance with EfficientNet
+
+https://github.com/Keshu321/AI_week_9/blob/main/Week_10_lab_session_dog_image.ipynb
+
