@@ -56,4 +56,6 @@ https://github.com/Keshu321/AI_week_9/blob/main/Week_10_lab_session_dog_image.ip
 
 • Programming Example: Forecasting book sales
 
+https://github.com/Keshu321/AI_week_9/blob/main/week11_Lab(1-4).ipynb
+
 
