@@ -40,3 +40,20 @@ https://github.com/Keshu321/AI_week_9/blob/main/94874_week_9.2_Untitled6.ipynb
 
 https://github.com/Keshu321/AI_week_9/blob/main/Week_10_lab_session_dog_image.ipynb
 
+## week 11 content 
+
+• Limitations of Feedforward Networks
+
+• Recurrent Neural Networks
+
+• Mathematical Representation of a Recurrent layer
+
+• Combining layers into an RNN
+
+• Alternative veiw of RNN and Unrolling in Time
+
+• Backpropagation Through Time
+
+• Programming Example: Forecasting book sales
+
+
