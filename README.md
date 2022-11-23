@@ -91,6 +91,21 @@ https://github.com/Keshu321/AI_week_9/blob/main/week11_Lab(1-4).ipynb
 
 # week 12 
 
+https://github.com/Keshu321/AI_week_9-16/blob/main/Week12_lab%20_group%20F.ipynb
+
+## content 
+
+Encoding text
+
+• Longer-term prediction and autoregressive models
+
+• Beam Search
+
+• Bidirectional RNNS
+
+• Different combinations of input and output sequences
+
+
 
 
 
