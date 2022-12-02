@@ -1,4 +1,9 @@
-# week 9 content 
+# week 9 
+link :
+https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_9.1.ipynb
+https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_9.2.ipynb
+
+## content 
 
 • Logistic unit for binary classification
 
@@ -18,11 +23,12 @@ price prediction
 • Concluding remarks on output units and regression
 problems
 
-https://github.com/Keshu321/AI_week_9/blob/main/74874_9.1_Untitled5.ipynb
 
-https://github.com/Keshu321/AI_week_9/blob/main/94874_week_9.2_Untitled6.ipynb
+# week 10 
 
-## week 10 content 
+link : https://github.com/Keshu321/AI_week_9-16/blob/main/94874_Week_10%20.ipynb
+
+## content 
 
 • VGGNet
 
@@ -38,9 +44,12 @@ https://github.com/Keshu321/AI_week_9/blob/main/94874_week_9.2_Untitled6.ipynb
 
 • Striking the right network design balance with EfficientNet
 
-https://github.com/Keshu321/AI_week_9/blob/main/Week_10_lab_session_dog_image.ipynb
 
-## week 11 content 
+
+# week 11 
+link : https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_11.ipynb
+
+## content 
 
 • ***Limitations of Feedforward Networks***
 
@@ -87,11 +96,10 @@ somewhat computationally expensive in cases with long input sequences.
 ![image](https://user-images.githubusercontent.com/92859942/200756155-7e2dc181-e34a-4bce-bcd9-0cd9164a8aae.png)
 
 
-https://github.com/Keshu321/AI_week_9/blob/main/week11_Lab(1-4).ipynb
 
 # week 12 
 
-https://github.com/Keshu321/AI_week_9-16/blob/main/Week12_lab%20_group%20F.ipynb
+link : https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_12.ipynb
 
 ## content 
 
@@ -151,6 +159,7 @@ to a vector for the rectangles) and produces a single output value.
 # Week 13 
 
 link : 
+https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_13.1.ipynb
 
 
 ## content 
