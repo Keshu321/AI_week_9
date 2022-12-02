@@ -1,7 +1,7 @@
 # week 9 
 link :
-https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_9.1.ipynb
-https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_9.2.ipynb
+- https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_9.1.ipynb
+- https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_9.2.ipynb
 
 ## content 
 
@@ -26,7 +26,8 @@ problems
 
 # week 10 
 
-link : https://github.com/Keshu321/AI_week_9-16/blob/main/94874_Week_10%20.ipynb
+link :
+- https://github.com/Keshu321/AI_week_9-16/blob/main/94874_Week_10%20.ipynb
 
 ## content 
 
@@ -47,7 +48,8 @@ link : https://github.com/Keshu321/AI_week_9-16/blob/main/94874_Week_10%20.ipynb
 
 
 # week 11 
-link : https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_11.ipynb
+link :
+- https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_11.ipynb
 
 ## content 
 
@@ -99,7 +101,8 @@ somewhat computationally expensive in cases with long input sequences.
 
 # week 12 
 
-link : https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_12.ipynb
+link : 
+- https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_12.ipynb
 
 ## content 
 
@@ -159,7 +162,8 @@ to a vector for the rectangles) and produces a single output value.
 # Week 13 
 
 link : 
-https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_13.1.ipynb
+- https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_13.1.ipynb
+- 
 
 
 ## content 
