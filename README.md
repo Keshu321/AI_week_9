@@ -163,7 +163,7 @@ to a vector for the rectangles) and produces a single output value.
 
 link : 
 - https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_13.1.ipynb
-- 
+- https://github.com/Keshu321/AI_week_9-16/blob/main/94874_Week_13.2%20.ipynb
 
 
 ## content 
