@@ -95,17 +95,106 @@ https://github.com/Keshu321/AI_week_9-16/blob/main/Week12_lab%20_group%20F.ipynb
 
 ## content 
 
-Encoding text
+- Keeping Gradients Healthy
 
-• Longer-term prediction and autoregressive models
+- Introduction to LSTM
 
-• Beam Search
+LSTM is an example of a gated unit. It consists of logistic sigmoid
+functions known as gates in addition to traditional activation functions.
+ ![image](https://user-images.githubusercontent.com/92859942/205247773-bfbc0a5e-2aab-4e8d-9734-f16c5c2a55af.png)
 
-• Bidirectional RNNS
+- Creating a network of LSTM cells
 
-• Different combinations of input and output sequences
+![image](https://user-images.githubusercontent.com/92859942/205248182-4134e1b9-fc3e-42dc-8c5e-cc43a37f9bc2.png)
 
 
+Figure above shows how multiple LSTM cells are connected into a
+recurrent network layer. This is just like a regular RNN, but each neuron
+has been replaced by the more complex LSTM cell. This results in a
+network with two sets of state. We have the internal state (c) inside of each
+LSTM cell, but we also have the state(h) in the global recurrent
+connections just as in an RNN that is based on simple neurons.
+The figure makes it obvious that an LSTM based RNN has four times as
+many parameters (weights) to train as a regular RNN. In addition to the
+input activation neurons, there are also three gate-neurons that each
+receives the same number of inputs as the input neuron.
 
+- Alternative view of LSTM
+LSTM is often thought about in terms of entire layers rather than individual
+units. In some texts, a cell refers to an entire layer of units rather than to a
+single unit
+
+![image](https://user-images.githubusercontent.com/92859942/205248431-bc4f4c69-2dff-424c-a4ab-6c66de850a3d.png)
+
+
+Figure above shows an LSTM layer unrolled in time for three timesteps.
+For each timestep, the layer receives c and h from the previous timestep
+and x from the current timestep and outputs new values for c and h.
+The middle part of the figure shows the internals of the LSTM layer.
+Each rectangle represents multiple neurons (the same number as the
+number of LSTM units in the layer), where each neuron receives a
+vector of inputs and produces a single output. The ones marked with the
+Greek letter sigma ( ) represent the gates, and the ones marked tanh
+represent the input and output activation functions. The curved line from
+x
+(t)
+represents a concatenation; that is, we form a wider vector, which
+contains the elements of both h
+(t−1) and x
+(t)
+. All other operations
+(represented by circles/oval) represent multiple instances (the same
+number as the number of LSTM units in the layer) of the operation,
+where each of these instances receives a single input value (as opposed
+to a vector for the rectangles) and produces a single output value.
+
+# Week 13 
+
+link : 
+
+
+## content 
+
+- Encoding text
+
+We need to encode text properly to use text as input to our RNN.
+We use one-hot encoding just as we did for categories in our image
+classification problems.
+ One-hot encoding works fine for characters, given that a typical
+alphabet contains only tens of characters. as a side note, one-hot
+encoding words is less efficient: It results in much wider vectors
+because the width of the input vector is the same as the total number of
+symbols to encode. A typical language contains tens or hundreds of
+thousands of words
+![image](https://user-images.githubusercontent.com/92859942/205249228-17a111ac-e61b-4034-bffe-f1950c9d50cf.png)
+
+- Longer-term prediction and autoregressive models
+- 
+Long-term prediction can be done by repeatedly feeding the predicted
+output back as inputs to the model. This works only if the network
+predicts all the variables needed as input. It is known as an
+autoregressive model.
+
+When the output is a softmax function, we typically do not feed the exact
+output back as input, but instead we identify the most probable element
+and use the one-hot encoded version of that element as input to the
+network.
+
+- Beam Search
+Beam search enables us to create multiple alternative predictions
+when feeding back output as inputs to a network.
+
+- Bidirectional RNNS
+
+Bidirectional RNNs predict an element from both the past and the future.
+
+- Different combinations of input and output sequences
+Input/output combinations for RNN unrolled in time. gray
+represents input, blue represents the network, and green represents outputs.
+
+![image](https://user-images.githubusercontent.com/92859942/205249694-0eb2a6ce-6949-410f-9eeb-08d81c163948.png)
+
+
+# Week 14 
 
 
