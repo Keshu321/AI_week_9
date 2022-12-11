@@ -210,4 +210,8 @@ represents input, blue represents the network, and green represents outputs.
 
 # Week 14 
 
+link : 
+https://github.com/Keshu321/AI_week_9-16/blob/main/94874_week_14%20.ipynb
 
+content : 
+Natural Language Processing using transformer encoder
